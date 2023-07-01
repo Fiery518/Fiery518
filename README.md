@@ -19,8 +19,6 @@
 
 - 📫 You can hit me up anytime over this mail **mantejtuli@gmail.com**
 
-- 📄 Know about my experiences in this formal resume [https://drive.google.com/file/d/1GenI6-eh3Aw2fvsPSMeV5ZcBBG8mCJtb/view?usp=sharing](https://drive.google.com/file/d/1GenI6-eh3Aw2fvsPSMeV5ZcBBG8mCJtb/view?usp=sharing)
-
 - ⚡ Fun fact **I am also a big formula 1 nerd boy**
 
 <h3 align="left">Connect with me:</h3>
