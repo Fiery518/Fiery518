@@ -1,4 +1,4 @@
-[![MasterHead](/github-header-image.png)]
+![MasterHead](/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mantej Singh Tuli (Fiery518)</h1>
 <h3 align="center">A passionate developer from India which indulges in niches which other devs scowl from</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
