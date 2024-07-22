@@ -19,7 +19,7 @@
 
 - 📫 You can hit me up anytime over this mail **mantejtuli@gmail.com**
 
-- ⚡ Fun fact **I am also a big formula 1 nerd **
+- ⚡ Fun fact **I am also a big formula 1 nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
